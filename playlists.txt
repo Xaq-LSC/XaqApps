@@ -1,0 +1,5 @@
+# Format: ButtonName = DisplayName = FilePath
+Taygete = Taylor Swift = C:\BEYOND40\Shows\Taylor Swift Laser\TaylorSwiftPlaylist2024.BeyondSL
+asteroidBacchus = Bad Bunny = C:\BEYOND40\Shows\Bad Bunny\Bad Bunny Laser Show 2023.BeyondSL
+Chaldene = Chappell Roan = C:\BEYOND40\Shows\Chappel Roan\Chappel Roan 2025.BeyondSL
+Bianca = Billie Eilish = C:\BEYOND40\Shows\Billie Eilish\billie eiliosh2.BeyondSL
