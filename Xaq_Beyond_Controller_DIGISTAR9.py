@@ -63,7 +63,7 @@ def load_playlist(name):
 
 root = tk.Tk()
 root.title("Command Listener Browser")
-root.geometry("1200x700")
+root.geometry("800x500")
 
 url_var = StringVar()
 url_var.set("http://192.168.2.99/software/config/host/web/controlpanel.htm?bk=1")
