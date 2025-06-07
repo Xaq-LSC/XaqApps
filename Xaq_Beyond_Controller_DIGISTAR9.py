@@ -143,7 +143,11 @@ fetch_panel.bind("<Button-3>", on_fetch_right_click)
 
 async def start_browser():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(
+            headless=True,
+            executable_path="C:\\Users\\zrzetelny\\AppData\\Local\\ms-playwright\\chromium-1169\\chrome-win\\chrome.exe"  # adjust version/folder name if needed
+        )
+
         context = await browser.new_context()
         page = await context.new_page()
 
